@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jameson\documents\visual studio 2017\projects\findshapes\findshapes\source.cpp(64): warning C4018: '<': signed/unsigned mismatch
+opencv_world320d.lib(opencv_world320d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
